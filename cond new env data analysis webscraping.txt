@@ -1,0 +1,8 @@
+conda create --name ehunar_practice python=3.12
+conda activate ehunar_practice
+conda install pandas numpy statsmodels matplotlib scikit-learn seaborn
+
+conda install requests html5lib urllib3 beautifulsoup4 scrapy selenium
+ 
+conda istall jupyter
+conda install jupyterlab 
